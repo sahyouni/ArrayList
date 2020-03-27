@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ArrayListHelper
+comment1.params=
+comment1.target=ArrayListHelper()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ ArrayListHelper\n
+comment2.params=
+comment2.target=java.lang.String\ Display()
+comment2.text=\n\ A\ method\ to\ display\ of\ the\ collection\n
+comment3.params=
+comment3.target=java.lang.String\ Reverse()
+comment3.text=\n\ A\ method\ to\ reverse\ the\ collection\n
+comment4.params=arrayListToBeAppended
+comment4.target=java.lang.String\ Append(java.util.ArrayList)
+comment4.text=\n\ A\ method\ to\ Append\ another\ arraylist\ to\ the\ existing\ collection\n
+comment5.params=
+comment5.target=java.lang.String\ Sort()
+comment5.text=\n\ A\ method\ to\ sort\ the\ collection\n
+numComments=6
